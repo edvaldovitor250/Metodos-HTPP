@@ -1,4 +1,4 @@
-Metodos HTPP
+METODOS HTPP
 
 Olá, devs! Como vocês estão?
 
